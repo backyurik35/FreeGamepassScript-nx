@@ -1,0 +1,1 @@
+# FreeGamepassScript-nx
